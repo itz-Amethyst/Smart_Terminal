@@ -2,13 +2,13 @@
 
 ## 🎆 IT'S A WINDOWS TERMINAL!! 🎆
 
-At first's i din't belive that i can finally brings this beautifull terminal to windows 
+At firsts i didn't belive that i can finally bring this beautifull terminal to windows 
 
 That's right not only linux users can do stuffs like this 😂
 
 Follow steps to Make your terminal like me 🪶
 
-## ⭐ SUPPORT ME BY GIVE THIS REPO STAR ⭐
+## ⭐ SUPPORT ME BY GIVING THIS REPO STAR ⭐
 
 
 ![Terminal](https://cdn.discordapp.com/attachments/921633563810627588/1164274180695523378/image.png?ex=65429dd3&is=653028d3&hm=f80adf4bf83fb8e8166babe9805e48497f1b1f2f1383ddfd87be06f9d98b3192&)
