@@ -62,14 +62,33 @@ neofetch
 
 ### Customization 
 
+#### 1 / 2
+First go to this path on your computer
+```
+C:\Users\{{Username}}\scoop\apps\neofetch\current
+```
+You will see a file named neofetch if you want to apply exactly my ascii art replace the file with one i putted in repository
+Otherwise open it in a editor and search for windows you'll see a ascii windows logo replace it with whatever you want
+run neofetch again on your terminal to see the applied changes
+
+
+#### 2 / 2
+For more customization options 
+go on this path
+```
+C:\Users\No1\.config\neofetch
+```
+There is a file named config.conf again if you want my style replace it with the exact name file i putted in repository
+Open it you will see a func named print_info() at first so there are some ready option made there if you want to see them remove # (it's comment syntax ) otherwise any options you dont want to see put # at the first of them to comment them
+
 
 ## windows terminal
 
 #### 1 / 2
-![Product-Page](https://media.discordapp.net/attachments/1113510096622862375/1113567410058952764/image.png?width=970&height=469)
+
 
 #### 2 / 2
-![Product-Page](https://cdn.discordapp.com/attachments/1113510096622862375/1113563011391701082/image.png)
+
 
 ## oh my posh
 
